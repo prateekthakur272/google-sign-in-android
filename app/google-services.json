@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "949865755010",
+    "project_id": "sign-in-7e228",
+    "storage_bucket": "sign-in-7e228.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:949865755010:android:04e00e3ef6e1bac1bf5f9b",
+        "android_client_info": {
+          "package_name": "com.prateekthakur272.googlesignin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "949865755010-klnk254qo08eerjc6475u82nl5snnv5u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDbcUURFAB6GEmJX3Jh-1_n5YG_jdsf-Gc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "949865755010-klnk254qo08eerjc6475u82nl5snnv5u.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
